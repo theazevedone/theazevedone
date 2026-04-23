@@ -1,16 +1,24 @@
-## Hi there 👋
+# Luís Azevedo
 
-<!--
-**theazevedone/theazevedone** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Front-end em formação, estudando **HTML, CSS e JavaScript** e criando projetos simples para ganhar experiência prática.
 
-Here are some ideas to get you started:
+- 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
+- 👨‍💻 Focado em páginas estáticas, portfólios e pequenos projetos web  
+- 🚚 Atuação na área de logística, unindo visão de operação com tecnologia  
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## 🌐 Onde me encontrar
+
+- Site pessoal: https://theazevdone.github.io/meu-primeiro-site/  
+- GitHub: https://github.com/theazevedone  
+- LinkedIn: https://www.linkedin.com/in/lu%C3%ADs-azevedo-86bb43295/  
+- YouTube: https://www.youtube.com/@theazevedone  
+
+## 🛠️ Tecnologias que estou estudando
+
+- HTML  
+- CSS  
+- JavaScript (iniciante)  
+
+## 📌 Projetos em destaque
+
+- [Meu primeiro site](https://github.com/theazevedone/meu-primeiro-site) – Página pessoal em HTML com apresentação e links para redes sociais.
