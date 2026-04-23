@@ -8,7 +8,7 @@ Front-end em formação, estudando **HTML, CSS e JavaScript** e criando projetos
 
 ## 🌐 Onde me encontrar
 
-- Site pessoal: https://theazevdone.github.io/meu-primeiro-site/  
+- Site pessoal: https://theazevedone.github.io/meu-primeiro-site/  
 - GitHub: https://github.com/theazevedone  
 - LinkedIn: https://www.linkedin.com/in/lu%C3%ADs-azevedo-86bb43295/  
 - YouTube: https://www.youtube.com/@theazevedone  
