@@ -21,4 +21,4 @@ Front-end em formação, estudando **HTML, CSS e JavaScript** e criando projetos
 
 ## 📌 Projetos em destaque
 
-- [Meu primeiro site](https://github.com/theazevedone/meu-primeiro-site) – Página pessoal em HTML com apresentação e links para redes sociais.
+- [Meu primeiro site](https://theazevedone.github.io/meu-primeiro-site/) – Página pessoal em HTML com apresentação e links para redes sociais.
