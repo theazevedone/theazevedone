@@ -1,9 +1,9 @@
 # Luís Azevedo
 
-Front-end em formação, estudando **HTML, CSS e JavaScript** e criando projetos simples para ganhar experiência prática.
+Desenvolvedor em formação, focado em lógica de programação, estrutura de dados e desenvolvimento de software (Back-end).
 
 - 🎓 Estudante de Análise e Desenvolvimento de Sistemas  
-- 👨‍💻 Focado em páginas estáticas, portfólios e pequenos projetos web  
+- 🎯 Focado em lógica de programação, algoritmos e no ecossistema Java e C  
 - 🚚 Atuação na área de logística, unindo visão de operação com tecnologia  
 
 ## 🌐 Onde me encontrar
@@ -15,9 +15,9 @@ Front-end em formação, estudando **HTML, CSS e JavaScript** e criando projetos
 
 ## 🛠️ Tecnologias que estou estudando
 
-- HTML  
-- CSS  
-- JavaScript (iniciante)  
+Back-end: Java (Iniciante), Linguagem C
+
+Front-end: HTML, CSS, JavaScript (Iniciante)
 
 ## 📌 Projetos em destaque
 
